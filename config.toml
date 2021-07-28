@@ -10,5 +10,5 @@ title = "Smithlabs Blog"
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
   ]
 
-  [params]
-  layoutReverse = true
+[params]
+layoutReverse = true
